@@ -1,0 +1,15 @@
+{
+  "name": "coding-nut",
+  "version": "1.0.0",
+  "description": "Coding nut, link station stuff",
+  "main": "linkstation.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
